@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/iudini/job4j_pooh.svg?branch=main)](https://travis-ci.com/iudini/job4j_pooh)
 
 Проект аналог асинхронной очереди.
 
